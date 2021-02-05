@@ -1,0 +1,49 @@
+.userPhoto{
+    width: 100px;
+    height: 100px;
+}
+
+.userFlex{
+    display: flex;
+    justify-content: space-between;
+    margin:15px;
+    font-size: 20px;
+    font-family: cursive;
+    color: blue;
+}
+.userFlex2{
+    display: block;
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+
+  
+}
+
+.cololNumber{
+    color: green;
+
+}
+ 
+.portion{
+    color:black;
+    margin:5px;
+    
+    
+}
+
+.pageNumber{
+    margin:5px;
+    color:rgb(162, 0, 255);
+    font-size: 20px;
+    border:solid blue 2px;
+    cursor: pointer;
+}
+
+.stelected{
+    color:green;
+    border-radius: 100%;
+    font-size: 25px;
+    border:solid gold 3px;
+   
+}

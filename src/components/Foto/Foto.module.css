@@ -1,0 +1,26 @@
+.header{
+    background-color:#CCCCCC;
+}
+
+
+.headerFoto{
+    text-align: center;
+    color: #666666;
+}
+
+.foto{
+    width: 200px;
+    height: 160px;
+   
+    }
+
+    .fotoFlex{
+        display: flex;
+        justify-content: space-between;
+    }
+
+.fotoTop{
+    width: 500px;
+    height: 400px;
+}
+

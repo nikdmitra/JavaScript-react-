@@ -1,0 +1,10 @@
+.Profile{
+    grid-area: c;
+    background-color:orange;
+    min-width:  auto;
+    min-height: auto;
+    padding: 15px;
+    color:red;
+  }
+  
+

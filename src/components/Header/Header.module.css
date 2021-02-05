@@ -1,0 +1,23 @@
+.header{
+    grid-area: h;
+    background-color:#333333;
+    display: flex;
+    justify-content: space-between;
+  }
+  .header img{
+    width: 160px;
+  }
+  .loginBlock{
+    float:right;
+    font-size: 20px;
+    color:#fff;
+    padding-top: 15px;
+  }
+    .loginBlock a{
+    color: wheat;
+  }
+  .pirat{
+    font-size: 30px;
+    color: #CCCCCC;
+    margin-top: 10px;
+}

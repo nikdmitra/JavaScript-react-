@@ -1,0 +1,32 @@
+
+.dialogs{
+    display: grid;
+    grid-template-columns: 2fr 6fr;
+
+
+}
+
+.user{
+  padding: 15px;
+  font-family: 20px;
+ 
+}
+
+
+.user .active{
+    
+    color:gold;
+  }
+  
+
+
+
+.sms{
+    padding: 15px;
+    font-size: 20px;
+}
+
+.dialogs{
+  background-color: #3333;
+}
+
